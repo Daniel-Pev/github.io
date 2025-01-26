@@ -63,11 +63,8 @@ hr{
     line-height: 20px !important;
 }
 #telegram, #github, #my_habr{
-    color: black;
+    color: blue;
     font-size: 16px
-}
-#telegram:hover, #github:hover, #my_habr:hover{
-color: blue
 }
 
 #about,.card > ul > li{
@@ -89,7 +86,7 @@ color: blue
     font-weight: bold !important;
     font-family: 'Cutive Mono',monospace;
 }
-#author,#email,#city,#telephone,#more-about,#telephone, #git, #habr{
+#college,#email,#year-graduation,#education,#more-about,#telephone,#fax, #git, #habr{
     color: #555;
     font-size: 13.5px;
 }
